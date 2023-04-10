@@ -2,3 +2,31 @@
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
 spoof-signature-verification
+comments
+copy-video-url
+custom-branding
+custom-video-buffer
+custom-video-speed
+debugging
+disable-auto-captions
+disable-fullscreen-panels
+disable-player-popup-panels
+disable-shorts-on-startup
+downloads
+general-ads
+hdr-auto-brightness
+hide-album-cards
+hide-artist-card
+hide-breaking-news-shelf
+hide-crowdfunding-box
+hide-email-address
+hide-endscreen-cards
+hide-my-mix
+hide-watermark
+old-quality-layout
+remember-video-quality
+return-youtube-dislike
+sponsorblock
+spoof-app-version
+swipe-controls
+video-ads
